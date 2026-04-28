@@ -1,0 +1,18 @@
+# GEE Notify - Example Settings
+# Copy this file to 'settings.toml' and fill in your details.
+
+[gee]
+project_id = "your-project-id"
+polling_interval_seconds = 60
+
+[telegram]
+enabled = false
+bot_token = "123456:ABC-DEF"
+chat_id = "YOUR_CHAT_ID"
+
+[desktop]
+enabled = true
+
+[teams]
+enabled = false
+webhook_url = "https://your-teams-webhook-url"
