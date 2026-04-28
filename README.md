@@ -7,7 +7,9 @@
 [English](README.md) | [Italiano](README.it.md)
 <!-- language-selector-end -->
 
-A professional notification system for **Google Earth Engine (GEE)**. This tool monitors your GEE tasks in the background and sends instant notifications to your preferred channels when they finish, so you don't have to check the GEE Task Manager manually.
+A professional notification system for **Google Earth Engine (GEE)**. This tool was specifically developed as a companion for the [GEE Data Extraction UI](https://github.com/Mastro1/GEE_data_extraction_UI) project.
+
+It monitors your GEE tasks in the background and sends instant notifications to your preferred channels when they finish, so you don't have to check the GEE Task Manager manually.
 
 ## 🚀 Features
 
