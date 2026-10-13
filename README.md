@@ -41,7 +41,7 @@ Configure the system by editing the `settings.toml` file in the root directory:
 
 ```toml
 [gee]
-project_id = "asrdownscalingcropdata"
+project_id = "mygeeproject"
 polling_interval_seconds = 60
 
 [telegram]
